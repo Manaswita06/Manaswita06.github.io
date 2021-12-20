@@ -1,10 +1,12 @@
 # Manaswita Mandal
 ## Data science Portfolio
 ### IIT MADRAS
-## **PROJECT 1**: [Loan data manipulation](https://docs.google.com/spreadsheets/d/1DYB76shXokv-JewlVeU0gy7NzvxKG9IKoA5wcCwWJ64/edit?usp=sharing)
-This is a project in which I have used a loan dataset.      
+## **PROJECT 1**: [Loan data manipulation](https://docs.google.com/document/d/1tEAOS6REF8DmWYsHHN8sdo4j_5P4qBQxCcBbwyxXSvY/edit?usp=sharing)
+
+This is a project in which I have used a loan dataset.  [Click here to see the dataset](https://docs.google.com/spreadsheets/d/1DYB76shXokv-JewlVeU0gy7NzvxKG9IKoA5wcCwWJ64/edit?usp=sharing)              
+
 Source of the dataset: [Click here](https://www.kaggle.com/apartmentguru/exploratory-lending/data)        
-I have found out the MM estimate and ML estimate for the column *installment* and compared the two. Also fitted a distribution to check the behaviour of the installment. I performed the **hypothesis testing** for the same as well.         
+I have found out the MM estimate and ML estimate for the column *INSTALLMENT* and compared the two. Also fitted a distribution to check the behaviour of the installment. I performed the **hypothesis testing** for the same as well.         
 
 [Click here to see the code](/code.py/Github_project.py)
 
