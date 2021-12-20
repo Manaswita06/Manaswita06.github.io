@@ -2,7 +2,7 @@
 ## Data science Portfolio
 
 ## Education
-### IIT MADRAS
+- IIT MADRAS
 ## **PROJECT 1**: [Loan data manipulation](https://docs.google.com/document/d/1tEAOS6REF8DmWYsHHN8sdo4j_5P4qBQxCcBbwyxXSvY/edit?usp=sharing)
 
 This is a project in which I have used a loan dataset.  [Click here to see the dataset](https://docs.google.com/spreadsheets/d/1DYB76shXokv-JewlVeU0gy7NzvxKG9IKoA5wcCwWJ64/edit?usp=sharing)              
