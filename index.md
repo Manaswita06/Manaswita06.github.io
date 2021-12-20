@@ -1,5 +1,7 @@
 # Manaswita Mandal
 ## Data science Portfolio
+
+## Education
 ### IIT MADRAS
 ## **PROJECT 1**: [Loan data manipulation](https://docs.google.com/document/d/1tEAOS6REF8DmWYsHHN8sdo4j_5P4qBQxCcBbwyxXSvY/edit?usp=sharing)
 
@@ -15,4 +17,6 @@ I have found out the MM estimate and ML estimate for the column *INSTALLMENT* an
 
 
 ## **PROJECT 2**: App Making
-In this project I will be making an app. Still on the process of making.
+In this project I will be making an app. Still on the process of making.                
+               
+##                                                      You can contact me at manaswita14@gmail.com
